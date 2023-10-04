@@ -885,3 +885,8 @@ a {
         font-size: 1.6rem;
     }
 }
+
+/* Utility */
+.callout .showcasefooter {
+    display: flex;
+}
